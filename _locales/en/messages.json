@@ -1,0 +1,20 @@
+{
+  "me_name": {
+    "message": "Me"
+  },
+  "options_saved_msg": {
+    "message": "Name saved."
+  },
+  "ex_name": {
+    "message": "John Doe"
+  },
+  "extension_options": {
+    "message": "Extension Options"
+  },
+  "name_enter": {
+    "message": "Enter your name:"
+  },
+  "save_btn": {
+    "message": "Save"
+  }
+}

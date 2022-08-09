@@ -1,0 +1,20 @@
+{
+  "me_name": {
+    "message": "Ich"
+  },
+  "options_saved_msg": {
+    "message": "Name gespeichert."
+  },
+  "ex_name": {
+    "message": "Max Mustermann"
+  },
+  "extension_options": {
+    "message": "Erweiterungsoptionen"
+  },
+  "name_enter": {
+    "message": "Gib deinen Namen ein:"
+  },
+  "save_btn": {
+    "message": "Speichern"
+  }
+}
